@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # 🎮 Gesture-Based Game Controller
 
 Control PC games like **Hill Climb Racing** using just your **hand gestures** ✋ with the help of a webcam.  
