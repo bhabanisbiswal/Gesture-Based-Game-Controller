@@ -90,9 +90,9 @@ python gesture_game_controller.py
 
 ## 📸 Demo
 
-![Gesture Accelerate](https://via.placeholder.com/600x300.png?text=Accelerate+Gesture)
+![Gesture Accelerate](https://github.com/bhabanisbiswal/Gesture-Based-Game-Controller/blob/c2e98e4381f9e127098db805806f99b4e7026e48/demo/accelerate.png)
 
-![Gesture Brake](https://via.placeholder.com/600x300.png?text=Brake+Gesture)
+![Gesture Brake](https://github.com/bhabanisbiswal/Gesture-Based-Game-Controller/blob/c2e98e4381f9e127098db805806f99b4e7026e48/demo/break.png)
 
 ---
 
